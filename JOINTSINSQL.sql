@@ -1,6 +1,6 @@
-Create database joints_in_sql;
+Create database joints_in_sql_for_practice;
 
-use joints_in_sql;
+use joints_in_sql_for_practice;
 
 select *
 from Categories;
@@ -24,7 +24,7 @@ select *
 from Shippers;
 
 select *
-from Supplier;
+from Suppliers;
 
 --types of joints in SQL they are 
 --inner join, left join, right join, full join

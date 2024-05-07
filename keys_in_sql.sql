@@ -1,7 +1,7 @@
-create database keys_in_sql;
+create database keys_in_sql_for_practice;
 
 -->To use that data_base
-use keys_in_sql;
+use keys_in_sql_for_practice;
 
 create table students
 (

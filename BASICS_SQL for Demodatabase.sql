@@ -1,9 +1,9 @@
 -->DDL
 -->Creating the data base 
-CREATE DATABASE Demodatabase;
+CREATE DATABASE Demodatabase_for_sql;
 
 -->To use that data_base
-use Demodatabase;
+use Demodatabase_for_sql;
 
 -->Create table in the database 
 create table students
